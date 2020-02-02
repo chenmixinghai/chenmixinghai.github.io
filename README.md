@@ -358,9 +358,9 @@ html, body {
 	  
 	  <br><br><br><br>
     </div>
-    <a class="box__button">༺辰迷༒星海༻</a>
+    <a href="https://chenmixinghai.github.io/photo/xinghai.jpg" class="box__button">༺辰迷༒星海༻</a>
+
   </div>
-</div>
 
 <script type="dc2dc271068775d9710f9f20-text/javascript">
 
