@@ -382,5 +382,4 @@ $(document).mousemove(function( event ) {
 
 });</script>
 
-<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="dc2dc271068775d9710f9f20-|49" defer=""></script></body>
-</html>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="dc2dc271068775d9710f9f20-|49" defer=""></script>
