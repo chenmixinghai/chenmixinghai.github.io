@@ -358,7 +358,7 @@ html, body {
 	  
 	  <br><br><br><br>
     </div>
-    
+    <a class="box__button">Reward Me</a>
   </div>
 </div>
 
