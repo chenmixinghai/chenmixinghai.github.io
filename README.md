@@ -7,7 +7,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0,user-scalable=no">
 
-<script type="dc2dc271068775d9710f9f20-text/javascript" src="js/jquery.min.js"></script>
+
 
 <style>
 html, body {
