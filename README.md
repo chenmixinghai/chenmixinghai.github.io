@@ -358,7 +358,7 @@ html, body {
 	  
 	  <br><br><br><br>
     </div>
-    <a class="box__button">辰迷星海</a>
+    <a class="box__button">༺辰迷༒星海༻</a>
   </div>
 </div>
 
