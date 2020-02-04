@@ -358,7 +358,7 @@ html, body {
 	  
 	  <br><br><br><br>
     </div>
-    <a href="https://chenmixinghai.github.io/photo/xinghai.jpg" class="box__button">༺星༒海༻</a>
+    <a href="https://chenmixinghai.github.io/photo/xinghai1.jpg" class="box__button">༺星༒海༻</a>
   </div>
 </div>
 
